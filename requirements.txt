@@ -3,3 +3,7 @@ requests
 opencv-python
 streamlit
 cv2
+opencv-python-headless==4.8.1.78
+numpy
+requests
+streamlit==1.50.0
